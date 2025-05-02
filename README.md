@@ -1,5 +1,5 @@
 <!-- Banner HTML/CSS -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi,%20I'm%20xDavid!&desc=Minecraft%20Plugin%20Developer%20|%20VS%20Code%20Extensions)](https://github.com/tu-usuario)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi,%20I'm%20xDavid!&desc=Minecraft%20Plugin%30Developer%30|%20VS%20Code%20Extensions)](https://github.com/tu-usuario)
 
 ---
 
