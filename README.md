@@ -3,7 +3,7 @@
   <img src="https://example.com/banner.png" alt="Banner" width="100%">
 </div>
 
-### Hi, I'm [Tu Nombre]! 👋  
+### Hi, I'm xDavid! 👋  
 *Minecraft Plugin Developer & VS Code Extensions*  
 
 ---
@@ -32,7 +32,7 @@
 🌟 *All of my projects are aimed at enhancing the development and gaming experience...*  
 
 - ❗ **Minecraft Plugins (2025)**  
-- 🪦 **NovaHalloween**  
+- 🪦 **NovaVoucher**  
 
 ---
 
