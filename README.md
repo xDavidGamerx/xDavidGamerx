@@ -1,7 +1,6 @@
 <!-- Banner HTML/CSS -->
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=%20xDavid!&desc=Minecraft%20Plugin%20Developer%20|%20VS%20Code%20Extensions&descAlignY=70&fontSize=40)](https://github.com/tu-usuario)
 
-
 ### 🛠️ Full Stack of Blocks and Code  
 - 🔥 *Developer of Minecraft Plugins and VS Code Extensions*  
 - ✅ *Lover of logic and complex systems*  
