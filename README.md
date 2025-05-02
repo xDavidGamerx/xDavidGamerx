@@ -11,7 +11,7 @@
 ### 💻 Tech Stack & Tools  
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
 <img align="left" alt="Spigot" width="30px" src="https://spigotmc.org/favicon.ico" />  
-<img align="left" alt="Minecraft" width="30px" src="https://www.minecraft.net/content/dam/minecraft/touchup-2020/minecraft-logo.svg" />  
+<img align="left" alt="Minecraft" width="30px" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/04/Grass_Block_%28texture%29_JE6.png" />  
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
 <img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
