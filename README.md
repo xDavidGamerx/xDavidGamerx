@@ -5,9 +5,6 @@
   <p style="color: white; text-align: center; font-size: 20px;">Minecraft Plugin Developer | VS Code Extensions</p>  
 </div>  
 
-### Hi, I'm xDavid! 👋  
-*Minecraft Plugin Developer & VS Code Extensions*  
-
 ---
 
 ### 🛠️ Full Stack of Blocks and Code  
