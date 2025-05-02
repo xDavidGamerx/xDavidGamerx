@@ -1,4 +1,4 @@
-<!-- Banner con efecto de ola y gradiente -->
+<!-- Banner HTML/CSS -->
 <div style="background: linear-gradient(90deg, #ff4d4d, #f9cb28); height: 200px; border-radius: 10px; position: relative; overflow: hidden;">  
   <div style="position: absolute; bottom: 0; width: 100%; height: 20px; background: url('https://capsule-render.vercel.app/api?type=waving&color=fff&height=20')"></div>  
   <h1 style="color: white; text-align: center; padding-top: 50px; font-size: 40px;">Hi, I'm xDavid!</h1>  
