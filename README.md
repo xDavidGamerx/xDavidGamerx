@@ -14,6 +14,14 @@
 
 ---
 
+### 🧠 Soft Skills & Workflow
+
+*   🤖 **AI-Assisted Development:** Experienced in leveraging state-of-the-art LLMs (Gemini, Claude, GPT) and dedicated AI CLIs like **OpenCode** and **AntigravityCLI** to accelerate project prototyping, optimize database operations, and streamline testing pipelines.
+*   🚀 **Pragmatic Problem Solver:** Focused on building simple, maintainable solutions, prioritizing long-term stability over short-lived trends.
+*   🤝 **Collaborative Mindset:** Capable of clearly documenting complex technical architectures and working in agile, transparent environments.
+
+---
+
 ### 🛠️ Technologies I Use
 
 <p align="center">
@@ -37,6 +45,11 @@
   <img src="https://img.shields.io/badge/Design_Patterns-Cache--Aside_&_Lua-orange" />
   <img src="https://img.shields.io/badge/Testing-xUnit_%26_Testcontainers-green" />
   <img src="https://img.shields.io/badge/API-Swagger_/_OpenAPI-red" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Development-Claude_%26_Gemini-8A2BE2" />
+  <img src="https://img.shields.io/badge/AI_CLIs-OpenCode_%26_Antigravity-008080" />
 </p>
 
 ---
