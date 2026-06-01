@@ -1,6 +1,6 @@
 <!-- Banner animado tipo ola con gradiente -->
 <p align="center">
-  <img src="banner.png" alt="xDavid! - Backend Developer" width="100%" />
+  <img src="banner.gif" alt="xDavid! - Backend Developer" width="100%" />
 </p>
   
 ### 👋 About Me
