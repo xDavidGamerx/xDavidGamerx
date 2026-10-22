@@ -1,24 +1,42 @@
-<!-- Banner animado tipo ola con gradiente -->
-<p align="center">
-  <img src="banner.gif" alt="xDavid! - Backend Developer" width="100%" />
-</p>
-  
+<!-- Terminal Interactivo: Heatmap y Retrato ASCII + Live Stats -->
+<div align="center">
+
+<h3><code>xdavid@github ~ $ ./contributions.sh --live</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="xDavid's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>xdavid@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./zerotwo-ascii.svg" width="420" alt="Zero Two // xDavid — ASCII art" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="xDavid's GitHub streak and stats — auto-refreshed daily" /></td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ### 👋 About Me
 
-*   🧡 **I design software** prioritizing scalability, clean boundaries, and high performance.
-*   🔌 **Backend:** C# (.NET 8), ASP.NET Core Web API, Redis caching, Stripe integration.
-*   🎮 **Minecraft Ecosystem:** Optimized plugin development, packet manipulation, and custom engine tooling.
-*   💾 **Data & Cache:** PostgreSQL (EF Core) and Redis (caching patterns like Cache-Aside, atomicity with Lua scripts).
-*   🧪 **Quality:** Automated testing using xUnit and Testcontainers (running real database instances for integration tests).
-*   ⚡ **DevOps & Infrastructure:** Docker & Docker Compose setup, structured logging with Serilog, and containerized deployments.
+* 🧡 **I design software** prioritizing scalability, clean boundaries, and high performance.
+* 🔌 **Backend:** C# (.NET 8), ASP.NET Core Web API, Redis caching, Stripe integration.
+* 🎮 **Minecraft Ecosystem:** Optimized plugin development, packet manipulation, and custom engine tooling.
+* 💾 **Data & Cache:** PostgreSQL (EF Core) and Redis (caching patterns like Cache-Aside, atomicity with Lua scripts).
+* 🧪 **Quality:** Automated testing using xUnit and Testcontainers (running real database instances for integration tests).
+* ⚡ **DevOps & Infrastructure:** Docker & Docker Compose setup, structured logging with Serilog, and containerized deployments.
 
 ---
 
 ### 🧠 Soft Skills & Workflow
 
-*   🤖 **AI-Assisted Development:** Experienced in leveraging state-of-the-art LLMs (Gemini, Claude, GPT) and dedicated AI CLIs like **OpenCode** and **AntigravityCLI** to accelerate project prototyping, optimize database operations, and streamline testing pipelines.
-*   🚀 **Pragmatic Problem Solver:** Focused on building simple, maintainable solutions, prioritizing long-term stability over short-lived trends.
-*   🤝 **Collaborative Mindset:** Capable of clearly documenting complex technical architectures and working in agile, transparent environments.
+* 🤖 **AI-Assisted Development:** Experienced in leveraging state-of-the-art LLMs (Gemini, Claude, GPT) and dedicated AI CLIs like **OpenCode** and **AntigravityCLI** to accelerate project prototyping, optimize database operations, and streamline testing pipelines.
+* 🚀 **Pragmatic Problem Solver:** Focused on building simple, maintainable solutions, prioritizing long-term stability over short-lived trends.
+* 🤝 **Collaborative Mindset:** Capable of clearly documenting complex technical architectures and working in agile, transparent environments.
 
 ---
 
@@ -56,7 +74,7 @@
 
 ### 📌 Projects I'm Currently Working On
 
-<details>
+<details open>
   <summary><strong>🚀 Ice_backend (C# / .NET 8)</strong></summary>
   <br>
   High-performance backend for the <em>ICE Launcher</em>.
@@ -72,6 +90,7 @@
 ---
 
 ### 🎧 Now Playing
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ah2l5vcsl6d5xs7lhvjsfj6s4a&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ah2l5vcsl6d5xs7lhvjsfj6s4a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify" />
@@ -81,6 +100,7 @@
 ---
 
 ### 🔗 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/david-r-campi%C3%B1o-766a8a353/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://www.instagram.com/davidr.campino/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
@@ -88,5 +108,5 @@
 </p>
 
 <p align="center">
-  <em>Last Updated: June 2026</em>
+  <em>Last Updated: October 2026</em>
 </p>
